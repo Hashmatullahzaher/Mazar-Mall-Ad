@@ -1,0 +1,143 @@
+{
+  "project": "Mazar Mall 60s CGI Advertisement",
+  "concept": "Tomorrow Has a View",
+  "version": "1.0.0",
+  "target_duration_seconds": 60,
+  "aspect_ratio": "16:9",
+  "presentation_resolution": "1920x1080",
+  "preferred_master_resolution": "3840x2160",
+  "site_match_status": "UNVERIFIED_UNTIL_SITE_PLATES_ADDED",
+  "shots": [
+    {
+      "id": "SH01",
+      "name": "The Landmark Appears",
+      "start_sec": 0,
+      "end_sec": 6,
+      "duration_sec": 6,
+      "continuity_risk": "HIGH",
+      "camera": "controlled golden-hour aerial bank and reveal",
+      "purpose": "Immediate scale and surprise",
+      "refs": [
+        "assets/references/hero/mazar_corner_day.jpg",
+        "assets/references/exterior/588843837_828699210138076_9184738005652812523_n.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH02",
+      "name": "Street-Level Presence",
+      "start_sec": 6,
+      "end_sec": 12,
+      "duration_sec": 6,
+      "continuity_risk": "HIGH",
+      "camera": "low architectural dolly / vehicle-height glide",
+      "purpose": "Make the completed project feel physically built and inhabitable",
+      "refs": [
+        "assets/references/hero/mazar_corner_day.jpg",
+        "assets/references/exterior/588530743_828699196804744_5397342575193697552_n.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH03",
+      "name": "Vertical Rise",
+      "start_sec": 12,
+      "end_sec": 19,
+      "duration_sec": 7,
+      "continuity_risk": "HIGH",
+      "camera": "controlled vertical crane/drone rise from podium toward residential levels",
+      "purpose": "Communicate full tower scale and facade identity",
+      "refs": [
+        "assets/references/hero/mazar_crown_closeup.jpg",
+        "assets/references/exterior/631659186_122109627861217006_4675841498922718652_n.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH04",
+      "name": "Arrival at Floor 5",
+      "start_sec": 19,
+      "end_sec": 27,
+      "duration_sec": 8,
+      "continuity_risk": "VERY_HIGH",
+      "camera": "slow approach toward Floor 5 balcony, 50–70mm feel",
+      "purpose": "Transition from landmark scale to human lifestyle",
+      "refs": [
+        "assets/references/hero/mazar_side_loop_frame.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH05",
+      "name": "Signature Sunset",
+      "start_sec": 27,
+      "end_sec": 38,
+      "duration_sec": 11,
+      "continuity_risk": "VERY_HIGH",
+      "camera": "slow push / lateral drift around resident and balcony",
+      "purpose": "Emotional centerpiece: resident with coffee watching sunset",
+      "refs": [
+        "assets/references/hero/mazar_side_loop_frame.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH06",
+      "name": "Home Revealed",
+      "start_sec": 38,
+      "end_sec": 45,
+      "duration_sec": 7,
+      "continuity_risk": "HIGH",
+      "camera": "backward move through balcony into premium furnished living space",
+      "purpose": "Connect sunset view to residential quality",
+      "refs": [
+        "assets/references/unit-plans/D-1_138sqm.jpg",
+        "assets/references/unit-plans/C-2_140sqm.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH07",
+      "name": "Lifestyle Pulse",
+      "start_sec": 45,
+      "end_sec": 51,
+      "duration_sec": 6,
+      "continuity_risk": "MEDIUM",
+      "camera": "three elegant micro-beats with match cuts",
+      "purpose": "Show lobby / amenities / commercial evening energy",
+      "refs": [
+        "assets/references/hero/mazar_corner_day.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH08",
+      "name": "Golden Hour to Blue Hour",
+      "start_sec": 51,
+      "end_sec": 56,
+      "duration_sec": 5,
+      "continuity_risk": "HIGH",
+      "camera": "slow exterior orbit or pull-back with time transition",
+      "purpose": "Transform Mazar Mall into an illuminated night landmark",
+      "refs": [
+        "assets/references/hero/mazar_corner_night.jpg",
+        "assets/references/hero/mazar_corner_day.jpg"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "SH09",
+      "name": "Night Hero / Brand Close",
+      "start_sec": 56,
+      "end_sec": 60,
+      "duration_sec": 4,
+      "continuity_risk": "MEDIUM",
+      "camera": "stable wide night hero with minimal drift",
+      "purpose": "Brand resolution and final impression",
+      "refs": [
+        "assets/references/hero/mazar_corner_night.jpg"
+      ],
+      "status": "PLANNED"
+    }
+  ]
+}

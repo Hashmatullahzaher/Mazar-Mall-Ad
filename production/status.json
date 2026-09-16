@@ -1,0 +1,21 @@
+{
+  "project": "Mazar Mall 60s CGI Advertisement",
+  "branch_target": "production/v1-cinematic-ad",
+  "creative_concept": "Tomorrow Has a View",
+  "astra_status": "NOT_CHECKED",
+  "higgsfield_status": "NOT_CHECKED",
+  "site_match_status": "SITE_MATCH_UNVERIFIED",
+  "phase": "PREPRODUCTION_READY",
+  "shot_status": {
+    "SH01": "PLANNED",
+    "SH02": "PLANNED",
+    "SH03": "PLANNED",
+    "SH04": "PLANNED",
+    "SH05": "PLANNED",
+    "SH06": "PLANNED",
+    "SH07": "PLANNED",
+    "SH08": "PLANNED",
+    "SH09": "PLANNED"
+  },
+  "final_status": "NOT_READY"
+}
